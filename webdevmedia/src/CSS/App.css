@@ -17,3 +17,19 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
 }
+.formContainer {
+  background-color: var(--light-secondary-background);
+  height: 35em;
+  width: 30em;
+}
+.FormSwitch button {
+  background-color: transparent;
+  font-size: large;
+  margin: 0.5em;
+  height: 2em;
+  width: 8em;
+}
+.formInputs div {
+  display: flex;
+  justify-content: center;
+}
