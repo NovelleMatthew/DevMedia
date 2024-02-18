@@ -7,7 +7,7 @@ const home = () => {
   return (
     <div>
       <nav>
-        <button className="logo">DevMedia</button>
+        <button className="logo">DevsMedia</button>
 
         <button className="profileButton">
           <img className="profileImg" src={profileImg} alt="profileImg" />
